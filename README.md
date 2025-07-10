@@ -46,7 +46,7 @@ Hasilnya, sistem mampu menghasilkan rekomendasi personalisasi Top-N video untuk 
 
 ---
 
-## ⚙️ Cara Pakai
+## ⚙️ Cara Menggunakan
 
 1. **Clone Repository**
    ```bash
